@@ -1,3 +1,1 @@
-# math-ncsu
-# math-ncsu
-# math-ncsu
+# mot-games
